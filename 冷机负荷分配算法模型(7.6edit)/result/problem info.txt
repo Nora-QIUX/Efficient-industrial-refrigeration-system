@@ -1,0 +1,2 @@
+{'name': 'Start', 'M': 1, 'maxormins': array([1]), 'Dim': 3, 'varTypes': array([0, 0, 0]), 'lb': array([6, 6, 6]), 'ub': array([8.5, 7. , 8.5]), 'borders': array([[1, 1, 1],
+       [1, 1, 1]])}
